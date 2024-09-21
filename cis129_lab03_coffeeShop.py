@@ -47,10 +47,10 @@ print(coffeeBought, "Coffee at $2 each: $", f"{coffeeTotal:.2f}")  #using f stri
 print(muffinBought, "Muffins at $3 each: $", f"{muffinTotal:.2f}")
 print(bagelBought, "Bagels at $5 each: $", f"{bagelTotal:.2f}")
 print(espressoBought, "Espresso at $4 each: $", f"{espressoTotal:.2f}")
-print("6% tax: $ " + f"{salesTaxTotal:.2f}" [1:])  #tax is formatted to two decimal places and slices string from second character 
+print("6% tax: $ ", f"{salesTaxTotal:.2f}")  #tax is formatted to two decimal places and slices string from second character 
 print("---------")
 print("Total: $", taxTotal)
 print("***************************************")
 
 #exit message and thank you :]
-print("\nThanks for coming by!! Come again anytime 24/7 :]\n")
+print("\nThanks for coming by!!\nCome again anytime 24/7 :]\n")
