@@ -1,6 +1,8 @@
 #Module 4 Lab-4
 #Lucas Robles
 #September 25th, 2024
+#Created for CIS 129 Programming and Problem Solving I
+
 #///////////////////////////////////////////////////////////////////
 #/This program will calculate a retails company's store bonus      /
 #/depending on the monthly sales. This will also calculate employee/
