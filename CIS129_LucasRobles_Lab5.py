@@ -28,7 +28,7 @@ def main():
         #user input will decide if the loop will run again
         print("\nDo you want to enter another week's worth of data?")
         keep_going = input("(Enter y or n): ")
-        print('\n')     #a blank line will be added after the user selects y or n
+        print("")     #a blank line will be added after the user selects y or n
     #&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 #====================================
